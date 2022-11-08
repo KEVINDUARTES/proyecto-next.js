@@ -1,0 +1,269 @@
+[
+  {
+    "name": "Aguas_calientes_Norte",
+    "address": {
+      "street": "BLVD. A Zacatecas",
+      "streetNumber": "204-A",
+      "neighborhood": "Fracc. El Plateado",
+      "zipCode": "20137",
+      "city": "Aguascalientes",
+      "state": "Aguascalientes"
+    },
+    "phones": [
+      "+52 (449) 146-68-20",
+      "+52 (449) 996-24-07",
+      "+52 (449) 146-68-21",
+      "+52 (449) 146-68-22",
+      "+52 (449) 996-34-57"
+    ],
+    "email": ["ags.norte@bigauto.com.mx"]
+  },
+
+  {
+    "name": "Aguas_calientes_Sur",
+    "address": {
+      "street": "Av. De La Convención Sur No",
+      "streetNumber": "909",
+      "neighborhood": "Fracc. Santa Elena",
+      "zipCode": "20200",
+      "city": "Aguascalientes",
+      "state": "Aguascalientes"
+    },
+    "phones": ["+52 (449) 917-08-60", "+52 (449) 162-78-47"],
+    "email": ["ags.norte@bigauto.com.mx"]
+  },
+
+  {
+    "name": "Aguas_Tercer_Anillo",
+    "address": {
+      "street": "Av. Siglo XXI",
+      "streetNumber": " 6302",
+      "neighborhood": "Col. Solidaridad I",
+      "zipCode": "20196",
+      "city": "Aguascalientes",
+      "state": "Aguascalientes"
+    },
+    "phones": ["+52 (449) 974-09-07", "+52 (449) 146-68-23"],
+    "email": ["ags.norte@bigauto.com.mx"]
+  },
+
+  {
+    "name": "Aguas_calientes_Jesus_Maria",
+    "address": {
+      "street": "Av. Paseo de los Chicahuales",
+      "streetNumber": "803",
+      "neighborhood": "Col. Agua Clara",
+      "zipCode": "20934",
+      "city": "Aguascalientes",
+      "state": "Mexico"
+    },
+    "phones": ["+52 (449) 963-51-84", "+52 (449) 963-92-05"],
+    "email": ["ags.norte@bigauto.com.mx"]
+  },
+
+  {
+    "name": "Aguas_calientes_Cumbres",
+    "address": {
+      "street": "Av. Siglo XXI ",
+      "streetNumber": "210",
+      "neighborhood": "Col. Las Cumbres.",
+      "zipCode": "20179",
+      "city": "Aguascalientes",
+      "state": "Aguascalientes"
+    },
+    "phones": ["+52 (449) 993-78-04", "+52 (449) 993-79-00"],
+    "email": ["ags.norte@bigauto.com.mx"]
+  },
+
+  {
+    "name": "Coahuila_Saltillo_La_Flagua",
+    "address": {
+      "street": "José María Lafragua",
+      "streetNumber": "1123",
+      "neighborhood": "Col. Centro",
+      "zipCode": "20137",
+      "city": "Coahuila",
+      "state": "Coahuila"
+    },
+    "phones": ["+52 (844) 410-04-86"],
+    "email": ["saltillo.lafragua@bigauto.com.mx"]
+  },
+
+  {
+    "name": "Coahuila_Saltillo_Miravalle",
+    "address": {
+      "street": " Ambar",
+      "streetNumber": "2515",
+      "neighborhood": "Col. Miravalle",
+      "zipCode": "25060",
+      "city": "Coahuila",
+      "state": "Coahuila"
+    },
+    "phones": ["+52 (844) 135-53-51"],
+    "email": ["saltillo.miravalle@bigauto.com.mx"]
+  },
+
+  {
+    "name": "Coahuila_Torreon_Abasolo",
+    "address": {
+      "street": "Av. Abasolo",
+      "streetNumber": "1155-A",
+      "neighborhood": "Col. Centro",
+      "zipCode": "27000",
+      "city": "Coahuila",
+      "state": "Coahuila"
+    },
+    "phones": ["+52 (871) 747-17-00"],
+    "email": ["torreon.abasolo@bigauto.com.mx"]
+  },
+
+  {
+    "name": "Coahuila_Torreon_Avila",
+    "address": {
+      "street": "Blvd. Manuel Ávila Camacho",
+      "streetNumber": "2900",
+      "neighborhood": "Col. Boca Negra",
+      "zipCode": "27030",
+      "city": "Coahuila",
+      "state": "Coahuila"
+    },
+    "phones": ["+52 (871) 747-99-79"],
+    "email": ["torreon.avilacamacho@bigauto.com.mx"]
+  },
+
+  {
+    "name": "Coahuila_San_Pedro_de_las_Colinas",
+    "address": {
+      "street": "Calle Miguel Hidalgo",
+      "streetNumber": "122",
+      "neighborhood": "Col.Centro",
+      "zipCode": "278000",
+      "city": "Coahuila",
+      "state": "Coahuila"
+    },
+    "phones": ["+52 (872) 772-86-77"],
+    "email": ["sanpedrodelascolonias@bigauto.com.mx"]
+  },
+
+  {
+    "name": "Colima_Rey_Coliman",
+    "address": {
+      "street": "Av. Rey Coliman",
+      "streetNumber": "425",
+      "neighborhood": "Col.Centro",
+      "zipCode": "28000",
+      "city": "Coahuila",
+      "state": "Coahuila"
+    },
+    "phones": [
+      "+52 (312) 688-28-17",
+      "+52 (312) 395-78-63",
+      "+52 (312) 395-18-13",
+      "+52 (312) 395-18-14"
+    ],
+    "email": ["col.reycoliman@bigauto.com.mx"]
+  },
+
+  {
+    "name": "Durango_el_Eden",
+    "address": {
+      "street": "Blvd. Durango ",
+      "streetNumber": "224",
+      "neighborhood": "Col.Jalisco",
+      "zipCode": "34170",
+      "city": "Durango",
+      "state": "Durango"
+    },
+    "phones": ["+52 (618) 130-91-41", "+52 (618) 130-91-10"],
+    "email": ["dgo.eleden@bigauto.com.mx"]
+  },
+
+  {
+    "name": "Durango_Gomez_Palacio_Patoni",
+    "address": {
+      "street": "Zona Centro",
+      "streetNumber": "963",
+      "neighborhood": "Durango, Gómez Palacio",
+      "zipCode": "35000",
+      "city": "Durango",
+      "state": "Durango"
+    },
+    "phones": ["+52 (871) 715-26-12", "+52 (871) 714-99-21"],
+    "email": ["gomezpalacio.patoni@bigauto.com.mx"]
+  },
+
+  {
+    "name": "Durango_Gomez_Palacio_Madero",
+    "address": {
+      "street": "Av. Francisco I. Madero",
+      "streetNumber": "2269",
+      "neighborhood": "Nuevo los Álamos",
+      "zipCode": "35027",
+      "city": "Durango",
+      "state": "Duranfo"
+    },
+    "phones": ["+52 (871) 191-58-65"],
+    "email": ["dgo.gomez.madero@bigauto.com.mx"]
+  },
+
+  {
+    "name": "Durango_La_Juventud",
+    "address": {
+      "street": "Blvd. De la Juventud",
+      "streetNumber": "607",
+      "neighborhood": "Col. Luis Echeverria",
+      "zipCode": "34250",
+      "city": "Durango",
+      "state": "Durango"
+    },
+    "phones": ["+52 (618) 817-59-85", "+52 (618) 817-84-09"],
+    "email": ["dgo.blvdelajuventud@bigauto.com.mx"]
+  },
+
+  {
+    "name": "Jalisco_Arandas",
+    "address": {
+      "street": "Carretera Libramiento Sur",
+      "streetNumber": "635",
+      "neighborhood": "Col. Santa Barbara",
+      "zipCode": "47135",
+      "city": "Arandas",
+      "state": "Jalisco"
+    },
+    "phones": ["+52 (348) 118-04-04", "+52 (348) 118-04-05"],
+    "email": ["jal.arandas@bigauto.com.mx"]
+  },
+
+  {
+    "name": "Jalisco_San_Juan_de_los_Lagos",
+    "address": {
+      "street": "Blvd. Ramón Martín Huerta ",
+      "streetNumber": "731",
+      "neighborhood": "Fracc. El Herrero",
+      "zipCode": "47030",
+      "city": "Jalisco",
+      "state": "Mexico"
+    },
+    "phones": ["+52 (395) 726-20-18", "+52 (395) 726-22-37"],
+    "email": ["jal.sanjuan@bigauto.com.mx"]
+  },
+
+  {
+    "name": "Jalisco_Lago_De_Moreno",
+    "address": {
+      "street": "Blvd.Orozco y Jiménez ",
+      "streetNumber": "238",
+      "neighborhood": "Col.Alcaldes",
+      "zipCode": "47400",
+      "city": "Jalisco",
+      "state": "Jalisco"
+    },
+    "phones": [
+      "+52 (474) 742-54-27",
+      "+52 (474) 742-55-96",
+      "+52 (474) 746-48-60",
+      "+52 (474) 742-40-86"
+    ],
+    "email": ["jal.lagosdemoreno@bigauto.com.mx"]
+  }
+]

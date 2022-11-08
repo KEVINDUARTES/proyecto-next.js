@@ -1,1 +1,1 @@
-# Perfil personal Kevin Duartes
+# proyecto-next.js
